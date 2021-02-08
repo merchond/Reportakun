@@ -5,7 +5,7 @@ chmod 777 merchond.py
 python2 merchond.py
 
 # Social Account
-Merchondchorexgmail.com
+cipelemrebel@gmail.com
 t.me/Hanusenkunn
 
 
